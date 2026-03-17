@@ -1,4 +1,3 @@
-# TH0nnz.github.io
 # Leon Zheng 鄭豊諺
 **Java Backend Engineer | AI Workflow Architect | Software Engineer**
  
