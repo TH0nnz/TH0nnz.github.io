@@ -52,7 +52,7 @@ AI 驅動開發 (LLM-Ops)： 實作企業級 AI 自動化流程，透過 CLI 工
 
 * **關鍵成就：AI 自動化工程轉型**
 
-    *自動化 AI 開發鏈：* 設計並實作公司內部 AI 開發 CLI。整合 GitHub SDK 與 Prompt Validation，將 Issue 提出、代碼生成、環境編譯到 PR 發送流程標準化。
+    *自動化 AI 開發鏈：* 設計並實作公司內部 AI 開發流程。整合 GitHub SDK 與 Prompt Validation，將 Issue 提出、代碼生成、環境編譯到 PR 發送流程標準化。
 
     *全生命週期管理：* 預計於 2026 專案全面導入 AI 輔助 SA/PM 工作，包含語音轉需求文檔、自動生成測試案例，目標達成開發週期縮短 50% 以上。
 
